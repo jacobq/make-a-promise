@@ -1,5 +1,5 @@
 {
-  "name": "make-promise",
+  "name": "make-a-promise",
   "version": "1.0.0",
   "description": "Just a few lines of code that I found myself writing over and over",
   "main": "index.js",
@@ -11,6 +11,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacobq/make-promise"
+    "url": "https://github.com/jacobq/make-a-promise"
   }
 }
