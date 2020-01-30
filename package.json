@@ -3,10 +3,14 @@
   "version": "1.0.0",
   "description": "Just a few lines of code that I found myself writing over and over",
   "main": "index.js",
+  "files": ["index.js"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": ["index.js"],
   "author": "Jacob Quant <jacobq@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobq/make-promise"
+  }
 }
